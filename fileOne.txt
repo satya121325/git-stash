@@ -1,1 +1,5 @@
 this is file one.
+why we are making these many chanes in these files?
+thi is because we are learning git and git is a tool which is used to manager changes in your repo over the time.
+hahahhahahahah.
+thi is fantastic. lets keep doing this.
